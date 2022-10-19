@@ -1,9 +1,9 @@
 # Dizionario Gellico 
-Questo e' il dizionario che racchiude l'essenza di una lingua antica e mistica in via di estinzione.
-Per preservarla e cercare di diffonderla nuovamente io e pochi eletti ci siamo accollati la responsabilita' di creare questa raccolta e un complesso script che riproduce il flusso di pensiero di questo antichissimo e leggendario essere durante la formulazione delle sue espressioni.
-Questo progetto mastodontico e' ancora in via di sviluppo e qualsiasi tipo di contributo alla causa sara' estremamente apprezzato data la complessita' del progetto e le difficolta' che si riscontrano durante studi riguardanti esseri di questo livello di misticita'.
+Questo è il dizionario che racchiude l'essenza di una lingua antica e mistica ormai in via di estinzione.
+Per preservarla e cercare di diffonderla nuovamente io e pochi eletti ci siamo accollati la responsabilità di creare questa raccolta e un complesso script che riproduce il flusso di pensiero di questo antichissimo e leggendario essere durante la formulazione delle sue espressioni.
+Questo mastodontico progetto è ancora in via di sviluppo e qualsiasi tipo di contributo alla causa sarà estremamente apprezzato data la sua complessità e le difficoltà che si riscontrano durante studi riguardanti esseri di questo livello di misticità.
 
-## Diozionario
+## Dizionario
 
 - Agile
 - Boca del lobo
@@ -36,6 +36,7 @@ Questo progetto mastodontico e' ancora in via di sviluppo e qualsiasi tipo di co
 - Murato vivo
 - Non piangere
 - Official 
+- Oro
 - Panico 
 - Rovinato
 - Sei grande

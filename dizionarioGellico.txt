@@ -1,5 +1,5 @@
 Agile
-Boca del lobo
+Boca de lobo
 Boca lupo
 Carraho
 Cazzata
@@ -29,6 +29,7 @@ Murato
 Murato vivo
 Non piangere
 Official
+Oro
 Panico
 Rovinato
 Sei grande
