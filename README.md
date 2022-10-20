@@ -6,7 +6,7 @@ Questo mastodontico progetto è ancora in via di sviluppo e qualsiasi tipo di co
 ## Dizionario
 
 - Agile
-- Boca del lobo
+- Boca de lobo
 - Boca lupo
 - Carraho
 - Cazzata
@@ -16,7 +16,7 @@ Questo mastodontico progetto è ancora in via di sviluppo e qualsiasi tipo di co
 - Claro
 - Dai ora
 - Dale dale dale
-- Dare noia 
+- Dare noia
 - Devastante
 - Down
 - Fanculo puttana
