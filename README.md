@@ -44,6 +44,10 @@ Questo mastodontico progetto è ancora in via di sviluppo e qualsiasi tipo di co
 - Stupido figlio di puttana 
 - Ufficiale
 - Vai a letto
+- Portato via
+- Ma che stai facendo
+- Non vedo nulla
+- Ma che stai dicendo
 
 
 
